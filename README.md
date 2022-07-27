@@ -6,5 +6,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-# Group nhắn tin online với thời gian thực
-Sử dụng Framework Laravel kết hợp với Pusher và ViteJs
+<p align="center">Group nhắn tin online với thời gian thực</p>
+<p align="center">Sử dụng Framework Laravel kết hợp với Pusher và ViteJs</p>
